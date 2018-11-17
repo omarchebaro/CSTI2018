@@ -3,18 +3,22 @@ class Hello{
 	void sayHello(){
 		
 		System.out.println("hello");
-		system.out.println("Dawn")
+System.out.println("hello hello");
+system.out.println("Dawn");
 	}
 	
-<<<<<<< HEAD
-=======
-	void sayHelloMe(){
+void sayHelloMe(){
+		
+		System.out.println("Dawn");
+	}
 		
 		System.out.println("Dawn");
 	}
 	
+<<<<<<< HEAD
 	system.out.println("adding successfully");
->>>>>>> c5ba29df56809f3751d8a45cfc6f6b4ad9bf37f1
-  
+  system.out.println(" modification  successfully")
+=======
+>>>>>>> 1b33b13a03b6c3753db0660ab250f5efc892f449
 
 }
