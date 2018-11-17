@@ -4,6 +4,9 @@ class Hello{
 		
 		System.out.println("hello");
 	}
+	
+	
+	system.out.println("adding successfully")
   
 
 }
